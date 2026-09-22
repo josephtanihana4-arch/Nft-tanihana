@@ -1,0 +1,8 @@
+{
+  "name": "Aetheris Web3 NFT Studio & Creator Revenue Planner",
+  "description": "Create and customize Ethereum and Solana NFTs with standards-compliant metadata, ownership traits, and interactive creator revenue and hourly earnings modeling without staking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
